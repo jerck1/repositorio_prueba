@@ -4,3 +4,4 @@ Este es el repositorio de la actividad 2.
 Nombre: John Erick Cabrera Ramirez
 ## Parte 2
 archivos
+este es un repositorio de prueba
